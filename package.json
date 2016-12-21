@@ -1,0 +1,22 @@
+{
+  "name": "tsc-watch",
+  "version": "1.0.0",
+  "description": "small project to show tsc-watch does not compile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmls/tsc-watch.git"
+  },
+  "author": "jmls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmls/tsc-watch/issues"
+  },
+  "homepage": "https://github.com/jmls/tsc-watch#readme",
+  "dependencies": {
+    "@types/node": "^6.0.52"
+  }
+}
